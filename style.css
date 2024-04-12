@@ -1,0 +1,114 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(249,109,236,1) 0%, rgba(43,180,66,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+  .caja-html {
+    width: 500px;
+    height: 500px;
+    margin: 15px ;
+    overflow: hidden;
+    background-color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    color: #000000;
+    
+  }
+  .caja-html>button{
+    color: #ccc;
+    background-color: #000000;
+    margin: 5px;
+    width: 85px;
+    height: 30px;
+    border-radius: 5px;
+    
+  }
+  .caja-html:hover{
+    background-color: #e899f8;
+  }
+  .caja-css{
+    width: 500px;
+    height: 500px;
+    background-color: #ffffff;
+    margin: 8px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    color: #000000;
+
+  }
+  .caja-css>button{
+    color: #ccc;
+    background-color: #000000;
+    margin: 8px;
+    width: 85px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  .caja-css:hover{
+    background-color: #e899f8;
+  }
+  .caja-js{
+    width: 500px;
+    height: 500px;
+    background-color: #ffffff;
+    margin: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    color: #000000;
+  }
+  .caja-js>button{
+    color: #ccc;
+    background-color: #000000;
+    margin: 8px;
+    width: 85px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  .caja-js:hover{
+    background-color: #e899f8;
+  }
+  img {
+    width: 50%;
+    height: 50%;
+    padding: 5px;
+    margin: 5px;
+    object-fit: cover;
+    
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
